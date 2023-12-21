@@ -1,6 +1,7 @@
 import React,{useEffect} from 'react'
 import "./Ourservicesinside.css"
 import gsap from 'gsap';
+import { Disclosure } from '@headlessui/react';
 
 const Ourservicesinside = () => {
   
